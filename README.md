@@ -1,5 +1,5 @@
-- Hi, I’m @ledmic
-- I’m interested in learning HTML, Javascript, and CSS
-- I’m currently learning HTML, Javascript, and CSS
-- I’m looking to collaborate on open-source web based projecets
+-Hello Gordon!
 
+-I'm ledmic, and I make g̶o̶o̶d bad source engine mods
+
+-Currently working on a heisting mod for Source SDK 2013
