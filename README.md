@@ -1,7 +1,2 @@
 
-# Hey! Welcome to my github
-## You can reach me on <!-- PNG version -->
-<img alt="discord-singular" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/discord-singular_64h.png">at wumpus#3512
-or at
-<!-- PNG version -->
-<img alt="youtube-plural" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/minimal/social/youtube-plural_64h.png">at zhuz
+<img src="https://media1.tenor.com/images/e4a9a44ecb7895376044e437366f08d4/tenor.gif?itemid=17841668"></img>
